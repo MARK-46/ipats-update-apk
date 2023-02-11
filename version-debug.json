@@ -1,6 +1,6 @@
 {
-  "versionName": "999.0.0",
-  "versionCode": "998",
+  "versionName": "1.0",
+  "versionCode": "1",
   "apkUrl":"https://raw.githubusercontent.com/MARK-46/ipats-update-apk/main/download/debug/debug-apk-20231102.333.apk",
   "forceUpdate": true,
   "whatsNew": "Just fixes."

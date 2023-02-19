@@ -1,0 +1,7 @@
+{
+  "versionName": "1.0",
+  "versionCode": "1",
+  "apkUrl":"https://raw.githubusercontent.com/MARK-46/ipats-update-apk/main/download/win/app-debug.exe",
+  "forceUpdate": true,
+  "whatsNew": ":D"
+}

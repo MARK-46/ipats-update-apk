@@ -1,6 +1,6 @@
 {
-  "versionName": "4.7",
-  "versionCode": "47",
+  "versionName": "4.8",
+  "versionCode": "48",
   "apkUrl":"https://raw.githubusercontent.com/MARK-46/ipats-update-apk/main/download/debug/app-debug.apk",
   "forceUpdate": true,
   "whatsNew": "Just fixes."

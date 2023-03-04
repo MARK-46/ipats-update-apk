@@ -1,7 +1,8 @@
 {
   "versionName": "1.0",
   "versionCode": "1",
-  "apkUrl":"https://raw.githubusercontent.com/MARK-46/ipats-update-apk/main/download/win/app-debug.exe",
+  "installer": "https://raw.githubusercontent.com/MARK-46/ipats-update-apk/main/download/win/app-debug.exe",
+  "vcpp86": "https://raw.githubusercontent.com/MARK-46/ipats-update-apk/main/download/required/vc_redist.x86.exe",
   "forceUpdate": true,
-  "whatsNew": ":D"
+  "whatsNew": ""
 }

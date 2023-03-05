@@ -1,7 +1,7 @@
 {
   "versionName": "4.8",
   "versionCode": "48",
-  "apkUrl":"https://raw.githubusercontent.com/MARK-46/ipats-update-apk/main/download/debug/app-debug.apk",
+  "apkUrl":"https://www.dropbox.com/s/5z8hr3i02ubimdi/app-debug.apk?dl=1",
   "forceUpdate": true,
   "whatsNew": "Just fixes."
 }

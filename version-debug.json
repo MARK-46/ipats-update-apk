@@ -1,6 +1,6 @@
 {
-  "versionName": "4.10",
-  "versionCode": "410",
+  "versionName": "4.11",
+  "versionCode": "411",
   "apkUrl":"https://www.dropbox.com/s/5z8hr3i02ubimdi/app-debug.apk?dl=1",
   "forceUpdate": true,
   "whatsNew": "Just fixes."
